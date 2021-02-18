@@ -13,3 +13,4 @@ If you want you can visit my [blog](https://w00zie.github.io/) where I (very rar
 - [3d_face_class](https://github.com/w00zie/3d_face_class): Using Graph Neural Networks to classify 3D meshes of human faces.
 - [pqc_chsh](https://github.com/w00zie/pqc_chsh): Parameterized Quantum Circuits and Bayesian Optimization for violating the Bell Inequality.
 - [GenerativeHCI](https://github.com/w00zie/GenerativeHCI): Arduino + sensors + MaxMSP = create music based on your surrounding environment.
+- [kmeans](https://github.com/w00zie/kmeans) and [mean_shift](https://github.com/w00zie/mean_shift): Clustering algorithms in C++17: parallel implementations with OpenMP and CUDA.
