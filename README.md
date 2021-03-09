@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm currently a Master student in Information Engineering at the University of Florence. The main focuses of my studies are **Machine Learning**, **Optimization** and **Information Theory**. I lean towards the theoretical aspects of these disciplines but I'm also passionate about the applications, specifically the ones related to medical data and music.
+I'm currently a Master student in Information Engineering at the University of Florence. The main focuses of my studies are **Machine Learning**, **Optimization** and **Information Theory**. I lean towards the theoretical aspects of these disciplines but I'm also passionate about the applications, specifically the ones related to physics, medicine and music.
 
 If you want you can visit my [blog](https://w00zie.github.io/) where I (very rarely) post more detailed descriptions of my projects. I also have a section on free books, courses and resources on ML/DL/Physics you might be interested into.
 
